@@ -1,8 +1,8 @@
 export const student = {
-  id: '2403XXXX',
-  name: 'Saad Mohamed',
-  fullName: 'Saad Mohamed Saad Abdulaziz Khamis',
-  username: 'saad',
+  id: 'DEMO0001',
+  name: 'Demo Student',
+  fullName: 'Demo Student User',
+  username: 'demo',
   level: 2,
   faculty: 'Computers & Information Technology',
   major: 'Computer Science',
@@ -13,10 +13,10 @@ export const student = {
   passedCH: 42,
   gender: 'Male',
   nationality: 'Egyptian',
-  email: 's2ad.m0.k7amis@gmail.com',
-  mobile: '+20 10 963 XX963',
-  birthDate: '2005-02-14',
-  nationalId: '305030****4256',
+  email: 'demo@example.com',
+  mobile: '+20 10 0000 0000',
+  birthDate: '2005-01-01',
+  nationalId: '00000000000000',
 }
 
 export const courseCatalog = [
